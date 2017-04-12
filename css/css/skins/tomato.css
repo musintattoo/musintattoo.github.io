@@ -1,0 +1,86 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #FF6347; }
+
+p,
+body .main_footer,
+.s_about li {
+  color: #888; }
+
+.color_element {
+  color: #FF6347; }
+
+.color_bg {
+  background-color: #FF6347; }
+
+.color_border {
+  border-color: #FF6347; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+  .bg_dark a {
+    color: #fff; }
+
+.main_color_bg {
+  background-color: #222; }
+
+svg path {
+  fill: #888; }
+
+.top_mnu a:hover {
+  color: #FF6347;
+  background-color: rgba(255, 255, 255, 0.08); }
+.top_mnu a {
+  letter-spacing: 4px; }
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+.main_footer {
+  letter-spacing: 0px; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.s_about p:nth-child(even) {
+  color: #FF6347; }
+
+.personal_header {
+  letter-spacing: 2px; }
+
+.section_content h3 {
+  color: #222;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 400; }
+
+.s_galery li {
+  letter-spacing: 2px;
+  color: #888; }
+  .s_galery li.active {
+    color: #fff;
+    border-bottom: 1px solid #FF6347; }
+
+.port_item_cont h3 {
+  color: #fff; }
+.port_item_cont a {
+  border-color: #FF6347;
+  color: #FF6347; }
+
+/*# sourceMappingURL=tomato.css.map */
